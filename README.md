@@ -2,6 +2,9 @@
 
 5x5 Tic Tac Toe - using class and files in C++
 
+[![Language Used](https://img.shields.io/badge/Language-C%2B%2B-success)](https://github.com/NOTtheKRish/tic-tac-toe-cpp)
+[![Type](https://img.shields.io/badge/Type-Game-blue)](https://github.com/NOTtheKRish/tic-tac-toe-cpp)
+
 ## Contents
 
 - ### viewScores
